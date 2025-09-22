@@ -1,0 +1,12 @@
+code:
+
+SELECT NAME FROM CITY WHERE COUNTRYCODE = 'JPN';
+-------------------------------------------------------------------------
+
+output:
+
+Neyagawa 
+Ageo 
+Sayama 
+Omuta 
+Tokuyama 
