@@ -1,0 +1,27 @@
+code:
+
+SELECT DISTINCT CITY FROM STATION WHERE CITY LIKE 'A%' OR CITY LIKE 'E%' OR CITY LIKE 'I%' OR CITY LIKE 'O%' OR CITY LIKE 'U%';
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+output:
+
+Acme 
+Addison 
+Agency 
+Aguanga 
+Alanson 
+Alba 
+Albany 
+Albion 
+Algonac 
+Aliso Viejo 
+Allerton 
+Alpine 
+Alton 
+Amazonia 
+Amo 
+Andersonville 
+Andover 
+Anthony 
+Archie 
+Arispe {-truncated-}
