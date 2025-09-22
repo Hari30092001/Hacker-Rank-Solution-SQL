@@ -2,6 +2,7 @@ code:
 
 SELECT * FROM CITY WHERE COUNTRYCODE = 'JPN';
 ------------------------------------------------------------------------------
+
 output:
 
 1613 Neyagawa JPN Osaka 257315 
