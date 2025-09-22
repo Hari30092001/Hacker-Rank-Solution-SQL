@@ -1,0 +1,10 @@
+code:
+
+SELECT
+(SELECT COUNT(CITY) FROM STATION) -
+(SELECT COUNT(DISTINCT CITY) FROM STATION) AS DIFFERENCE;
+--------------------------------------------------------------------------------------------
+
+output:
+
+13
