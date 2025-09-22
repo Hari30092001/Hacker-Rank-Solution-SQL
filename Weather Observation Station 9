@@ -1,0 +1,27 @@
+code:
+
+SELECT DISTINCT CITY FROM STATION WHERE CITY NOT LIKE 'A%' AND CITY NOT LIKE 'E%' AND CITY NOT LIKE 'I%' AND  CITY NOT LIKE 'O%' AND CITY NOT LIKE 'U%';
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+output:
+
+Baileyville 
+Bainbridge 
+Baker 
+Baldwin 
+Barrigada 
+Bass Harbor 
+Baton Rouge 
+Bayville 
+Beaufort 
+Beaver Island 
+Bellevue 
+Benedict 
+Bennington 
+Bentonville 
+Berryton 
+Bertha 
+Beverly 
+Biggsville 
+Bison 
+Blue River {-truncated-}
