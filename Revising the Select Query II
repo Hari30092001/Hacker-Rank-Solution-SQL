@@ -1,0 +1,10 @@
+code:
+
+SELECT NAME FROM CITY WHERE COUNTRYCODE = 'USA' AND POPULATION > 120000;
+
+output:
+
+Scottsdale
+Corona
+Concord
+Cedar Rapids
